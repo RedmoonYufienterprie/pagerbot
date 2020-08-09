@@ -27,7 +27,7 @@ GEM
       dotenv-deployment (~> 0.0.2)
     dotenv-deployment (0.0.2)
     eventmachine (1.0.7)
-    ffi (1.13.1)
+    ffi (1.9.3)
     hashie (2.0.5)
     http-cookie (1.0.2)
       domain_name (~> 0.5)
